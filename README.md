@@ -14,7 +14,7 @@ It allows users to convert **Celsius** into **Fahrenheit** or **Kelvin** instant
 
 ## 📸 Demo Preview  
 
-![Temperature Converter Screenshot](https://via.placeholder.com/800x400.png?text=App+Preview)  
+![Temperature Converter Screenshot]() 
 
 
 ## 🛠️ Tech Stack  
@@ -41,13 +41,15 @@ It allows users to convert **Celsius** into **Fahrenheit** or **Kelvin** instant
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/AnchalMaurya/temperature-converter.git
+   
 Open the project folder.
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the issues page.
 
 ## 👨‍💻 Author
@@ -58,8 +60,7 @@ Feel free to check the issues page.
 
 **🐙 GitHub**:https://github.com/AnchalMaurya
 
-⭐ Show your support
+## ⭐ Show your support
+
 If you like this project, don’t forget to star ⭐ the repository!
 
-yaml
-Copy code
